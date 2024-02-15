@@ -1,9 +1,6 @@
 <h1>Ultimate Coding Resources List - Me Vvek has -ed BS n put only vvimp</h1>
 <p>A collection of the best resources for programming, web development, computer science and more.</p>
 
-  ![GitHub contributors](https://img.shields.io/github/contributors/pizzapokerguy/ultimate-coding-resources)
-  ![Twitter Follow](https://img.shields.io/twitter/follow/pizzapokerguy?label=Follow&style=social)
-
 <hr>
 
 <details open>
@@ -62,22 +59,10 @@
     <ol>
       <li>
         <a href="https://www.algoexpert.io/codinggod" target="blank">AlgoExpert</a> - If you want to ace the tech
-        interview, being
-        well-versed in all common data structures and popular problem-solving methods is paramount. With 85 questions
+        interview, being well-versed in all common data structures and popular problem-solving methods is paramount. With 85 questions
         spanning 14 categories and 5 difficulty levels, we've got you covered.
       </li>
-      <li>
-        <a href="https://www.hackerrank.com/" target="blank">HackerRank</a> - Join Over 7 million developers, practice
-        coding skills, prepare for interviews, and get hired.
-      </li>
-      <li>
-        <a href="https://leetcode.com/" target="blank">LeetCode</a> - LeetCode is the best platform to help you enhance
-        your skills, expand your knowledge and prepare for technical interviews.
-      </li>
-      <li>
-        <a href="https://www.meetapro.com/?utm_source=ucrgit" target="blank">Meetapro</a> - An Airbnb-style mock interview & coaching platform with mock interviews hosted by experienced FAANG interviewers.
-      </li>
-      </ol>
+     </ol>
   </details>
   <details open>
     <summary>Sites - Course Sites</summary>
@@ -134,20 +119,7 @@
         <a href="https://www.salary.com/">Salary</a> - Understand your worth and plan your next career move with
         easy-to-use tools.
       </li>
-      <li>
-        <a href="https://www.linkedin.com/" target="blank">LinkedIn</a> - Welcome to LinkedIn, the world's largest
-        professional network with nearly 660+ million users in more than 200 countries and territories worldwide.
-      </li>
-      <li>
-        <a href="https://resume.github.io/" target="blank">Github
-          Resume</a> - As a software startup owner I really enjoy when people send us their résumés and they include
-        their github account so we can see tangible work they have done.
-      </li>
-      <li>
-        <a href="https://hashnode.com/" target="blank">HashNode</a> - Hashnode is the easiest way to connect with the
-        best developers from around the world and grow your career!
-      </li>
-            <li>
+       <li>
         <a href="https://www.levels.fyi/" target="blank">levels.fyi</a> - we break down the total compensation packages for multiple levels of software engineers at the largest tech companies.
       </li>
     </ol>
@@ -164,14 +136,7 @@
         developers with the information they need to easily build projects on the open Web. If it's an open technology
         exposed to the Web, we want to document it.
       </li>
-      <li>
-        <a href="https://www.30secondsofcode.org/">30 Seconds of Code</a> - Short code snippets for all your development
-        needs.
-      </li>
-      <li>
-        <a href="https://12factor.net/">The Twelve-Factor App</a> - In the modern era, software is commonly delivered as a service: called web apps, or software-as-a-service. The twelve-factor app is a methodology for building software-as-a-service apps.
-      </li>
-    </ol>
+      </ol>
   </details>
   <details open>
     <summary>Sites - Freelance & Contract Work</summary>
@@ -197,9 +162,6 @@
         <a href="https://tailwindcss.com/" target="blank">TailwindCSS</a> - A utility-first css framework that's a pleasure to use.
       </li>
       <li>
-        <a href="https://tailwindui.com/" target="blank">TailwindUI</a> - Tailwind's component library.
-      </li>
-      <li>
         <a href="https://getbootstrap.com/" target="blank">Bootstrap</a> - Bootstrap is an open source toolkit for
         developing with HTML, CSS, and JS. Quickly prototype your ideas or build your entire app with our Sass variables
         and mixins, responsive grid system, extensive prebuilt components, and powerful plugins built on jQuery.
@@ -211,8 +173,7 @@
     <ol>
       <li>
         <a href="https://angelhack.com/" target="blank">AngelHack</a> - The world's most diverse hacker community,
-        driving
-        innovation of tech products through developer programs.
+        driving innovation of tech products through developer programs.
       </li>
       <li>
         <a href="https://mlh.io/" target="blank">Major League Hacking</a> - The official collegiate hackathon league. .
@@ -242,8 +203,7 @@
         and REPL. Code, compile, and run code in 50+ programming languages.
       </li>
       <li>
-        <a href="https://codesandbox.io/" target="blank">CodeSandbox.io</a> - Founded in 2017 by Ives van Hoorne and Bas
-        Buursma, our mission is to make web development faster. By removing complexity we enable web developers to be
+        <a href="https://codesandbox.io/" target="blank">CodeSandbox.io</a> - our mission is to make web development faster. By removing complexity we enable web developers to be
         more productive. By simplifying collaboration we make it easier for teams to work on code together.
       </li>
          <li>
@@ -579,10 +539,3 @@
     </li>
   </ol>
 </details>
-
-<details open>
-  <summary>Memes</summary>
-  <ol>
-    <li><a href="https://martinfowler.com/bliki/TwoHardThings.html" target="blank">Two Hard Things</a> - is about the two hardest things in software engineering.</li>
-  </ol>
- </details>
