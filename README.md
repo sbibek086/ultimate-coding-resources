@@ -300,26 +300,8 @@
       interesting conference channel with a lot of different topics, front-end, back-end, architecture, security...
     </li>
   </ol>
-</details>
-
-<details open>
-  <summary>Wireframes and Mockups</summary>
-  <ol>
-    <li>
-      <a href="https://www.invisionapp.com/" target="blank">InVision</a> - InVision is the digital product design
-      platform used to make the world's best customer experiences.
-    </li>
-    <li>
-      <a href="https://balsamiq.com/" target="blank">Balsamiq</a> - Balsamiq is the company behind Balsamiq Wireframes,
-      the industry standard low-fidelity wireframing tool.
-    </li>
-    <li>
-      <a href="https://www.figma.com/" target="blank">Figma</a> - A better way to design. Design, prototype, and
-      gather feedback all in one place with Figma.
-    </li>
-    <li>
-      <a href="https://www.sketch.com/" target="blank">Sketch</a> - Sketch is a design toolkit built to help you create
-      your best work — from your earliest ideas, through to final artwork.
+  <li>
+      <a href="https://www.figma.com/" target="blank">Figma</a> - One of wireframe and mockup platform
     </li>
   </ol>
 </details>
