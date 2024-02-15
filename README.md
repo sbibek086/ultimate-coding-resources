@@ -342,10 +342,6 @@
       Across Multiple Machines Using GitHub Gist.
     </li>
     <li>
-      <a href="https://marketplace.visualstudio.com/items?itemName=CoenraadS.bracket-pair-colorizer"
-        target="blank">Bracket Pair Colorizer</a> - A customizable extension for colorizing matching brackets.
-    </li>
-    <li>
       <a href="https://marketplace.visualstudio.com/items?itemName=WallabyJs.quokka-vscode" target="blank">Quokka</a> -
       Live Scratchpad for JavaScript.
     </li>
