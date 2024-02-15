@@ -1,9 +1,5 @@
-<h1>Ultimate Coding Resources List</h1>
+<h1>Ultimate Coding Resources List - Me Vvek has -ed BS n put only vvimp</h1>
 <p>A collection of the best resources for programming, web development, computer science and more.</p>
-
-<small>DISCLAIMER: it is worth mentioning that a portion of resources (mainly courses and books) included have affiliate
-  links or items
-  mentioned are projects I have built that I directly benefit from their sale or use.</small>
 
   ![GitHub contributors](https://img.shields.io/github/contributors/pizzapokerguy/ultimate-coding-resources)
   ![Twitter Follow](https://img.shields.io/twitter/follow/pizzapokerguy?label=Follow&style=social)
@@ -57,41 +53,10 @@
       range of important "soft" topics.
     </li>
     <li>
-      <a href="https://amzn.to/35DDaUU" target="blank">HTML and CSS: Design and Build Websites</a> - Introduces HTML and
-      CSS in a way that makes them accessible to everyone―hobbyists, students, and professionals―and it’s full-color
-      throughout.
-      Utilizes information graphics and lifestyle photography to explain the topics in a simple way that is engaging.
-    </li>
-    <li>
       <a href="https://amzn.to/2FvYl0e" target="blank">Head First Design Patterns: A Brain-Friendly Guide</a> - At any
       given moment, someone struggles with the same software design problems you have. And, chances are, someone else
       has already solved your problem. This edition of Head First Design Patterns shows you the tried-and-true,
       road-tested patterns used by developers to create functional, elegant, reusable, and flexible software.
-    </li>
-    <li>
-      <a href="https://amzn.to/2T4zrNk" target="blank">Grokking Algorithms: An illustrated guide for programmers and
-        other curious people</a> - Grokking Algorithms is a fully illustrated, friendly guide that teaches you how to
-      apply common algorithms to the practical problems you face every day as a programmer. You'll start with sorting
-      and searching and, as you build up your skills in thinking algorithmically, you'll tackle more complex concerns
-      such as data compression and artificial intelligence.
-    </li>
-    <li><a href="https://amzn.to/37KZsFq" target="blank">A Smarter Way to Learn JavaScript. The new tech-assisted
-        approach that requires half the effort</a> - Learning JavaScript is hell because of two problems.
-      I remove the problems, and you start having fun.
-      The first problem is retention. You remember only ten or twenty percent of what you read. That spells failure. To
-      become fluent in a computer language, you have to retain pretty much everything.</li>
-    <li>
-      <a href="https://amzn.to/2N3fnqX" target="blank">Code: The Hidden Language of Computer Hardware and Software</a> -
-      What do flashlights, the British invasion, black cats, and seesaws have to do with computers? In CODE, they show
-      us the ingenious ways we manipulate language and invent new means of communicating with each other. And through
-      CODE, we see how this ingenuity and our very human compulsion to communicate have driven the technological
-      innovations of the past two centuries.
-    </li>
-    <li>
-      <a href="https://amzn.to/2ZYNDsJ" target="blank">Eloquent JavaScript: A Modern Introduction to Programming</a> -
-      JavaScript lies at the heart of almost every modern web application, from social apps like Twitter to
-      browser-based game frameworks like Phaser and Babylon. Though simple for beginners to pick up and play with,
-      JavaScript is a flexible, complex language that you can use to build full-scale applications.
     </li>
     <li>
       <a href="https://amzn.to/2TWfwPg" target="blank">Structure and Interpretation of Computer Programs</a> - Structure
@@ -110,29 +75,6 @@
       <a href="https://launchschool.com/books" target="blank">LaunchSchool Books</a> - Below are some books we wrote to supplement the courses at Launch School. Some of the books take a very beginner friendly approach, and are suitable for any level of technical proficiency. Some books may require prerequisite knowledge covered in a Launch School course, and may not be suitable for individual consumption.
     </li>
   </ol>
-</details>
-
-<details open>
-  <summary>Courses</summary>
-  <ol>
-    <li>
-      <a href="http://dylanisrael.com/?course=fe-interview" target="blank">The 100 Front End Interview Questions
-        Challenge</a> -
-      By the end of the course you'll be able to pass a front end technical screen covering the fundamentals of front
-      end web development HTML, CSS, and JavaScript. We also will dive into interview prep, cultural questions, and
-      general HR screening questions.
-    </li>
-    <li>
-      <a href="http://dylanisrael.com/?course=100-algorithms" target="blank">100 Algorithms Challenge</a> - Technical
-      interviews are the filter between good and great developers. At least that is how the industry sees it. In this
-      course we will up your problem solving ability and speed with 100 algorithm problems and solutions.
-    </li>
-    <li>
-      <a href="https://online-learning.harvard.edu/course/cs50-introduction-computer-science" target="blank">Harvard
-        CS50</a> An introduction to the intellectual enterprises of computer science and the art of programming by
-      Harvard University.
-    </li>
-        </ol>
 </details>
 
 <details open>
@@ -381,7 +323,7 @@
       <li>
       <a href="https://brilliant.org/" target="blank">Brilliant</a> - Build quantitative skills in math, science, and computer science with fun and challenging interactive explorations.
       </li>
-            <li>
+      <li>
       <a href="https://www.edx.org/" target="blank">edX</a> - edX is the trusted platform for education and learning. Founded by Harvard and MIT, edX is home to more than 20 million learners, the majority of top-ranked universities in the world and industry-leading companies.
       </li>
     </ol>
@@ -452,16 +394,6 @@
         <a href="https://developer.mozilla.org/en-US/" target="blank">Mozilla</a> - MDN's mission is simple: to provide
         developers with the information they need to easily build projects on the open Web. If it's an open technology
         exposed to the Web, we want to document it.
-      </li>
-      <li>
-        <a href="https://stackoverflow.com/" target="blank">Stack Overflow</a> - Founded in 2008, Stack Overflow is the
-        largest, most trusted online community for anyone that codes to learn, share their knowledge, and build their
-        careers. More than 50 million unique visitors come to Stack Overflow each month to help solve coding problems,
-        develop new skills, and find job opportunities.
-      </li>
-      <li>
-        <a href="https://devdocs.io/">DevDocs</a> - Fast, offline, and free documentation browser for developers. Search
-        100+ docs in one web app.
       </li>
       <li>
         <a href="https://www.30secondsofcode.org/">30 Seconds of Code</a> - Short code snippets for all your development
@@ -730,38 +662,6 @@
 </details>
 
 <details open>
-  <summary>Text Editors</summary>
-  <ol>
-    <li>
-      <a href="https://code.visualstudio.com/" target="blank">VSCode Text Editor</a> - Code editing. Redefined. Free.
-      Built on open source. Runs everywhere.
-    </li>
-    <li>
-      <a href="https://atom.io/" target="blank">Atom</a> - Teletype for Atom makes collaborating on code just as easy as
-      it is to code alone, right from your editor.
-    </li>
-    <li>
-      <a href="https://www.sublimetext.com/" target="blank">Sublime</a> - Sublime Text is a sophisticated text editor
-      for code, markup and prose. You'll love the slick user interface, extraordinary features and amazing performance.
-    </li>
-    <li>
-      <a href="https://notepad-plus-plus.org/" target="blank">Notepad++</a> - Notepad++ is a free (as in “free speech”
-      and also as in “free beer”) source code editor and Notepad replacement that supports several languages. Running in
-      the MS Windows environment, its use is governed by GPL License.
-    </li>
-    <li>
-      <a href="https://www.vim.org/" target="blank">Vim</a> - Vim is a highly configurable text editor for efficiently
-      creating and changing any kind of text. It is included as "vi" with most UNIX systems and with Apple OS X.
-    </li>
-    <li>
-      <a href="http://brackets.io/" target="blank">Brackets</a> - A modern, open source text editor that understands web
-      design.
-    </li>
-  </ol>
-
-</details>
-
-<details open>
   <summary>Blogs</summary>
   <ol>
     <li><a href="https://www.programwitherik.com/" target="blank">Program with Erik</a> - Erik is a two time author,
@@ -942,39 +842,6 @@
 </details>
 
 <details open>
-  <summary>Community</summary>
-
-  <details open>
-    <summary>Community - Facebook Groups</summary>
-    <ol>
-      <li>
-        <a href="https://www.facebook.com/groups/190277791450732/">Code, Tech & Caffeine</a> - Coding noobs to senior
-        devs
-        to those just interested in technology this group is for you. This group is devoted to sharing helpful and
-        interesting items in software and technology.
-      </li>
-      <li>
-        <a href="https://www.facebook.com/groups/759985267390294" target="blank">Hackathon Hackers</a> - This is the
-        all-inclusive hackathons group.
-      </li>
-      <li>
-        <a href="https://www.facebook.com/groups/318334558529855" target="blank">Hacking and Coding Tutorials</a> - A
-        closed group for technical enthusiasts interesting in hacking and coding. A place to openly discuss and share
-        ideas and ask for help from real and certified hackers and programmers.
-      </li>
-      <li>
-        <a href="https://www.facebook.com/programmingjokes" target="blank">Programming Jokes</a> - 1000+ Jokes Only
-        Programmers Will Get
-      </li>
-      <li>
-        <a href="https://www.facebook.com/ilp18/" target="blank">I Love Programming</a> - Welcome to one of the most
-        popular Facebook page related to programming :)
-        Here we share best tutorials, news, YouTube videos and memes related to programming.
-      </li>
-    </ol>
-  </details>
-
-  <details open>
     <summary>Community - Forums (Subreddits, etc.)</summary>
     <ol>
       <li>
@@ -983,26 +850,6 @@
       </li>
       <li>
         <a href="https://hackernoon.com/" target="blank">Hacker Noon</a> - How hackers start their afternoons.
-      </li>
-      <li>
-        <a href="https://www.reddit.com/r/learnprogramming/" target="blank">Learn Programming</a> - A subreddit for all
-        questions related to programming in any language.
-      </li>
-      <li>
-        <a href="https://www.reddit.com/r/dailyprogrammer/" target="blank">Daily Programmer</a> - 3 Programming
-        Challenges
-        a week!
-      </li>
-      <li>
-        <a href="https://www.reddit.com/r/webdev/" target="blank">WebDev</a> - A community dedicated to all things web
-        development: both front-end and back-end.
-      </li>
-      <li>
-        <a href="https://www.reddit.com/r/javascript/" target="blank">JavaScript</a> - All about the JavaScript
-        programming language!
-      </li>
-      <li>
-        <a href="https://www.reddit.com/r/coding/" target="blank">Coding</a> - Welcome to r/coding
       </li>
     </ol>
   </details>
@@ -1018,16 +865,8 @@
         <a href="https://code.org" target="blank">Code.org</a> - Code.org® is a nonprofit dedicated to expanding access
         to computer science in schools and increasing participation by women and underrepresented minorities.
       </li>
-      <li>
-        <a href="https://www.womenwhocode.com/" target="blank">Women Who Code</a> - Women Who Code (WWCode) is a global
-        501(c)(3) non-profit organization dedicated to inspiring women to excel in technology careers.
-      </li>
-      <li>
-        <a href="https://dev.to/" target="blank">Dev.to</a> - DEV is a community of software developers getting together
-        to help one another out. The software industry relies on collaboration and networked learning. We provide a
-        place for that to happen.
-      </li>
-    </ol>
+      
+   </ol>
   </details>
 </details>
 
