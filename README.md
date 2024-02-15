@@ -9,19 +9,6 @@
 <details open>
   <summary>Books</summary>
   <ol>
-    <li><a href="https://amzn.to/2N0dzNb" target="blank">Clean Architecture</a> - by applying universal rules of
-      software architecture, you can dramatically improve developer productivity throughout the life of any software
-      system. Now, building upon the success of his best-selling books Clean Code and The Clean Coder, legendary
-      software craftsman Robert C. Martin (“Uncle Bob”) reveals those rules and helps you apply them.</li>
-    <li>
-      <a href="https://amzn.to/2JIjOrz" target="blank">Clean Code: A Handbook of Agile Software Craftsmanship</a> - even
-      bad code can function. But if code isn’t clean, it can bring a development organization to its knees. Every year,
-      countless hours and significant resources are lost because of poorly written code. But it doesn’t have to be that
-      way.
-    </li>
-    <li><a href="https://amzn.to/2L6mcE0" target="blank">Code Complete</a> - widely considered one of the best practical
-      guides to programming, Steve McConnell’s original CODE COMPLETE has been helping developers write better software
-      for more than a decade. </li>
     <li><a href="https://amzn.to/2MlI3wW" target="blank">Cracking the Coding Interview</a> - learn how to uncover the
       hints and hidden details in a question, discover how to break down a problem into manageable chunks, develop
       techniques to unstick yourself when stuck, learn (or re-learn) core computer science concepts, and practice on 189
@@ -40,41 +27,7 @@
       the first edition of this influential book in 1999 to help their clients create better software and rediscover the
       joy of coding. Topics range from personal responsibility and career development to architectural techniques for
       keeping your code flexible and easy to adapt and reuse. </li>
-    <li>
-      <a href="https://amzn.to/37JCaQj" target="blank">The Mythical Man-Month: Essays on Software Engineering</a> - Few
-      books on software project management have been as influential and timeless as The Mythical Man-Month. With a blend
-      of software engineering facts and thought-provoking opinions, Fred Brooks offers insight for anyone managing
-      complex projects.
-    </li>
-    <li>
-      <a href="https://amzn.to/2s7BKEk" target="blank">Soft Skills: The software developer's life manual</a> - Soft
-      Skills: The software developer's life manual is a unique guide, offering techniques and practices for a more
-      satisfying life as a professional software developer. In it, developer and life coach John Sonmez addresses a wide
-      range of important "soft" topics.
-    </li>
-    <li>
-      <a href="https://amzn.to/2FvYl0e" target="blank">Head First Design Patterns: A Brain-Friendly Guide</a> - At any
-      given moment, someone struggles with the same software design problems you have. And, chances are, someone else
-      has already solved your problem. This edition of Head First Design Patterns shows you the tried-and-true,
-      road-tested patterns used by developers to create functional, elegant, reusable, and flexible software.
-    </li>
-    <li>
-      <a href="https://amzn.to/2TWfwPg" target="blank">Structure and Interpretation of Computer Programs</a> - Structure
-      and Interpretation of Computer Programs has had a dramatic impact on computer science curricula over the past
-      decade. This long-awaited revision contains changes throughout the text. There are new implementations of most of
-      the major programming systems in the book, including the interpreters and compilers, and the authors have
-      incorporated many small changes that reflect their experience teaching the course at MIT since the first edition
-      was published. A new theme has been introduced that emphasizes the central role played by different approaches to
-      dealing with time in computational models: objects with state, concurrent programming, functional programming and
-      lazy evaluation, and nondeterministic programming.
-    </li>
-    <li>
-      <a href="https://www.buymeacoffee.com/GoalKickerBooks" target="blank">Goal Kicker</a> - Programming Notes for Professionals books.
-    </li>
-    <li>
-      <a href="https://launchschool.com/books" target="blank">LaunchSchool Books</a> - Below are some books we wrote to supplement the courses at Launch School. Some of the books take a very beginner friendly approach, and are suitable for any level of technical proficiency. Some books may require prerequisite knowledge covered in a Launch School course, and may not be suitable for individual consumption.
-    </li>
-  </ol>
+    </ol>
 </details>
 
 <details open>
@@ -88,34 +41,9 @@
         including
       </li>
       <li>
-        <a href="https://scrimba.com/" target="blank">Scrimba</a> - Our mind-blowing learning experience makes it easier
-        than ever to grow your coding skills. So pick a course, start learning, and give your career the boost it
-        deserves.
-      </li>
-      <li>
-        <a href="https://codecombat.com/" target="blank">CodeCombat</a> - CodeCombat is a game-based computer science
-        program where students type real code and see their characters react in real time.
-      </li>
-      <li>
-        <a href="https://www.sololearn.com/" target="blank">SoloLearn</a> - Join the largest community of mobile code
-        learners today.
-      </li>
-      <li>
         <a href="https://www.codingame.com/start" target="blank">Coding Game</a> - At CodinGame, our goal is to let
         programmers keep on improving their coding skills by solving the World's most challenging problems, learn new
         concepts, and get inspired by the best developers.
-      </li>
-      <li>
-        <a href="https://www.theodinproject.com/" target="blank">The Odin Project</a> - The Odin Project is one of those
-        "What I wish I had when I was learning" resources. Not everyone has access to a computer science education or
-        the funds to attend an intensive coding school and neither of those is right for everyone anyway. This project
-        is designed to fill in the gap for people who are trying to hack it on their own but still want a high quality
-        education.
-      </li>
-      <li>
-        <a href="https://bento.io/" target="blank">Bento</a> - Bento's mission is to make technology education and
-        opportunity available to all. Bento is a technology education company focused on educating and empowering the
-        next generation of self-taught developers.
       </li>
       <li>
         <a href="https://www.codecademy.com/" target="blank">Codecademy</a> - Codecademy is an education company. But
@@ -129,52 +57,7 @@
         assessments, learning paths and courses authored by industry experts, our platform helps businesses and
         individuals benchmark expertise across roles, speed up release cycles and build reliable, secure products.
       </li>
-      <li>
-        <a href="https://teamtreehouse.com/" target="blank">Treehouse</a> - Our mission is to diversify the tech
-        industry through accessible education and apprenticeship, unlocking the door to opportunity and empowering
-        people to achieve their dreams.
-      </li>
-      <li>
-        <a href="https://frontendmasters.com/" target="blank">FrontEndMasters</a> - Join Now and Learn Straight from the
-        Experts Who Shape the Modern Web
-      </li>
-      <li>
-        <a href="https://linkedin-learning.pxf.io/eWX26" target="blank">LinkedIn Learning</a> - Formally Linda, LinkedIn
-        Learning is one of the worlds largest course platforms with content being created monthly.
-      </li>      
-      <li>
-        <a href="https://designgurus.org/" target="blank">Design Gurus</a> - The ultimate resource to prepare for the system design and coding interview.
-      </li>
-      <li>
-        <a href="https://www.educative.io/" target="blank">Educative</a> - Level up your coding skills, quickly and efficiently.
-      </li>
-      <li>
-        <a href="https://www.scaler.com/topics/hubs/" target="blank">Scaler</a> - Learn to code by reading quality content. The ultimate resources to kick start your programming journey. Also help in job interview.
-      </li>
-      <li>
-        <a href="https://thegymnasium.com/" target="blank">Gymnasium</a> - Aquent Gymnasium offers free, online courses for digital, creative, and communications professionals to equip them with in-demand skills and advance their careers.
-      </li>
-      <li>
-        <a href="https://hackr.io/" target="blank">Hackr.io</a> - We at Hackr.io aggregate courses from many providers to make it easy to find the best courses on almost any subject, wherever they exist on the web.
-      </li>
-      <li>
-        <a href="https://www.codewars.com/" target="blank">Codewars</a> - Codewars is an educational community for computer programming. On the platform, software developers train on programming challenges known as kata. These discrete programming exercises train a range of skills in a variety of programming languages, and are completed within an online integrated development environment.
-      </li>
-      <li>
-          <a href="https://www.codementor.io/experts" target="blank">Codementor</a> - Get 1-on-1 expert help from senior developers to improve your coding skills or get help with your ongoing projects.
-      </li>
-      <li>
-        <a href="https://www.codeforhunger.com/" target="blank">codeforhunger</a> - Learn to code. Learn coding from basics with examples and their solutions. learn code with projects in C.
-        including
-      </li>
-      <li>
-      <a href="https://www.interviewbit.com/practice/" target="blank">InterviewBit</a> A site that gamifies the experience of practicing for interviews and includes lots of sample problems, programming and company-specific interview questions, mock interviews and more. 
-    </li>
-    <li>
-        <a href="https://www.codementor.io/events/" target="blank">Codementor Events</a> - A developer community and virtual events platform where developers learn and share new tools, technical concepts, and career tips.
-    </ol>
-  </details>
-  <details open>
+      <details open>
     <summary>Sites - Algorithm Platforms</summary>
     <ol>
       <li>
@@ -194,69 +77,7 @@
       <li>
         <a href="https://www.meetapro.com/?utm_source=ucrgit" target="blank">Meetapro</a> - An Airbnb-style mock interview & coaching platform with mock interviews hosted by experienced FAANG interviewers.
       </li>
-      <li>
-        <a href="https://codesignal.com/" target="blank">Code Signal</a> - formerly CodeFights a grate Algorithm site
-        with a beautiful UI.
-      </li>
-      <li>
-        <a href="https://www.codewars.com/" target="blank">Code Wars</a> - Codewars is a collective effort by its users.
-        They are creators - authoring kata to teach various techniques, solving kata with solutions that enlighten
-        others, and commenting with constructive feedback. The leaders among them moderate the content and community.
-      </li>
-      <li>
-        <a href="https://exercism.io/" target="blank">Exercism</a> - Level up your programming skills with 3,173
-        exercises across 51 languages, and insightful discussion with our dedicated team of welcoming mentors. Exercism
-        is 100% free forever.
-      </li>
-      <li>
-        <a href="https://projecteuler.net/">Project Euler</a> - Project Euler is a series of challenging
-        mathematical/computer programming problems that will require more than just mathematical insights to solve.
-        Although mathematics will help you arrive at elegant and efficient methods, the use of a computer and
-        programming skills will be required to solve most problems.
-      </li>
-      <li>
-        <a href="https://www.codechef.com/" target="blank">Code Chef</a> - CodeChef was created as a platform to help
-        programmers make it big in the world of algorithms, computer programming, and programming contests. At CodeChef
-        we work hard to revive the geek in you by hosting a programming contest at the start of the month and two
-        smaller programming challenges at the middle and end of the month. We also aim to have training sessions and
-        discussions related to algorithms, binary search, technicalities like array size and the likes.
-      </li>
-      <li>
-        <a href="https://www.coderbyte.com/">Coderbyte</a> - Coderbyte is a web application built to help you practice
-        programming and improve your coding skills. We offer a collection of code challenges and web development courses
-        that can help you prepare for upcoming job interviews. The coding challenges range in difficulty and they can
-        all be completed straight in our online editor.
-      </li>
-      <li>
-        <a href="https://edabit.com/">Edabit</a> - We're like Duolingo for learning to code. When learning to code, most
-        people get stuck on the "bridge" between memorizing syntax and understanding the logic that makes it all work.
-      </li>
-      <li>
-        <a href="https://www.pramp.com/" target="blank">Pramp</a> - Join thousands of professionals practicing live mock
-        interviews & interview questions online, with peers, for free. We help you prep & land your dream tech job.
-      </li>
-      <li>
-        <a href="https://www.codility.com/" target="blank">Codility</a> - Codility is a software platform that helps
-        tech recruiters and hiring managers assess their candidates' skills by testing their code online.
-      </li>
-      <li>
-        <a href="https://www.codeabbey.com/" target="blank">CodeAbbey</a> - CodeAbbey hosts a series of simple to
-        complex
-        programming problems that allow the user to practice their ability to solve problems.
-      </li>
-      <li>
-        <a href="https://adventofcode.com/" target="blank">Advent of Code</a> - Advent of Code is an Advent calendar of
-        small programming puzzles for a variety of skill sets and skill levels that can be solved in any programming
-        language you like. People use them as a speed contest, interview prep, company training, university coursework,
-        practice problems, or to challenge each other.
-      </li>
-       <li>
-        <a href="https://backtobackswe.com/" target="blank">Backtobackswe</a> - Backtobackswe platform is built to give a huge edge to the people by teaching the mind and intuition interviewers probe for. The goal of he platform is to make someone ready to pass software engineering interviews at "the big 4" companies and any other large tech companies.
-      </li>
-      <li>
-        <a href="https://www.interviewbit.com/practice/" target="blank">InterviewBit</a> - A site that gamifies the experience of practicing for interviews and includes lots of sample problems, programming language & company-specific interview questions, mock interviews and more. 
-      </li>
-    </ol>
+      </ol>
   </details>
   <details open>
     <summary>Sites - Course Sites</summary>
@@ -274,59 +95,7 @@
         <a href="https://thinkster.io/" target="blank">Thinkster</a> - a better way to learn. Learn how real apps are
         built, from scratch, using the latest frameworks.
       </li>
-      <li>
-        <a href="https://frontendmasters.com/" target="blank">Frontend Masters</a> - Advance Your Skills with In-Depth,
-        Modern Front-End Engineering Courses
-      </li>
-      <li>
-        <a href="https://egghead.io/" target="blank">EggHead</a> - egghead is a group of working web development
-        professionals and open source contributors that provide you with concise, information dense video courses on the
-        best tools in the industry.
-      </li>
-      <li>
-        <a href="https://laracasts.com/">Laracasts</a> - Push your web development skills to the next level, through
-        expert screencasts on Laravel, Vue, and so much more.
-      </li>
-      <li>
-        <a href="https://www.udacity.com/?coupon=UDACAFFIL2020" target="blank">Udacity</a> - Our mission is to power
-        careers through tech education. We partner with leading technology companies to learn how technology is
-        transforming industries, and teach the critical tech skills that companies are looking for in their workforce.
-      </li>
-      <li>
-        <a href="https://www.khanacademy.org/" target="blank">Khan Academy</a> - Khan Academy offers practice exercises,
-        instructional videos, and a personalized learning dashboard that empower learners to study at their own pace in
-        and outside of the classroom. We tackle math, science, computer programming, history, art history, economics,
-        and more.
-      </li>
-      <li>
-        <a href="https://codecourse.com/" target="blank">Codecourse</a> - Rather than just teach theory, we focus on
-        real code to inspire your next project. Learning shouldn't be boring, so let's have some fun.
-      </li>
-      <li>
-        <a href="https://javascript30.com/" target="blank">JavaScript 30</a> - 30 Day Vanilla JS Coding Challenge. Build
-        30 things in 30 days with 30 tutorials. No Frameworks. No Compilers. No Libraries. No Boilerplate.
-      </li>
-      <li>
-        <a href="https://flexboxfroggy.com/" target="blank">Flexbox Froggy</a> - Welcome to Flexbox Froggy, a game where
-        you help Froggy and friends by writing CSS code!
-      </li>
-      <li>
-        <a href="https://ocw.mit.edu/index.htm" target="blank">MIT OpenCourseWare</a> - MIT OpenCourseWare is a
-        web-based publication of virtually all MIT course content. OCW is open and available to the world and is a
-        permanent MIT activity.
-      </li>
-      <li>
-        <a href="https://www.coursera.org/" target="blank">Coursera</a> - Join Coursera for free and learn online. Build
-        skills with courses from top universities like Yale, Michigan, Stanford, and leading companies like Google and
-        IBM.
-      </li>
-      <li>
-      <a href="https://brilliant.org/" target="blank">Brilliant</a> - Build quantitative skills in math, science, and computer science with fun and challenging interactive explorations.
-      </li>
-      <li>
-      <a href="https://www.edx.org/" target="blank">edX</a> - edX is the trusted platform for education and learning. Founded by Harvard and MIT, edX is home to more than 20 million learners, the majority of top-ranked universities in the world and industry-leading companies.
-      </li>
-    </ol>
+      </ol>
   </details>
   <details open>
     <summary>Sites - Career & Job Sites</summary>
@@ -435,26 +204,7 @@
         developing with HTML, CSS, and JS. Quickly prototype your ideas or build your entire app with our Sass variables
         and mixins, responsive grid system, extensive prebuilt components, and powerful plugins built on jQuery.
       </li>
-      <li>
-        <a href="https://materializecss.com/" target="blank">Materialize</a> - Materialize is a modern responsive CSS
-        framework based on Material Design by Google.
-      </li>
-      <li>
-        <a href="https://bulma.io/" target="blank">Bulma</a> - Bulma is a free, open source CSS framework based on
-        Flexbox and built with Sass. It's 100% responsive, fully modular, and available for free.
-      </li>
-      <li>
-        <a href="https://getuikit.com/" target="blank">UIkit</a> - A lightweight and modular front-end framework for
-        developing fast and powerful web interfaces.
-      </li>
-      <li>
-        <a href="https://purecss.io/" target="blank">Pure.css</a> - A set of small, responsive CSS modules that you can
-        use in every web project.
-      </li>
-      <li>
-        <a href="https://fontawesome.com/" target="blank">Font Awesome</a> - Get vector icons and social logos on your website with Font Awesome, the web's most popular icon set and toolkit.
-      </li>
-    </ol>
+     </ol>
   </details>
   <details open>
     <summary>Sites - Hackathons</summary>
@@ -508,19 +258,7 @@
   <details open>
     <summary>Sites - Tools</summary>
     <ol>
-      <li>
-        <a href="https://trello.com/" target="blank">Trello</a> - Whether it’s for work, a side project or even the next
-        family vacation, Trello helps your team stay organized.
-      </li>
-      <li>
-        <a href="https://slack.com/" target="blank">Slack</a> - Slack replaces email inside your company.
-        Discuss, collaborate, share — work is better without the inbox.
-      </li>
-      <li>
-        <a href="https://github.com/" target="blank">Github</a> - We’re supporting a community where more than 40
-        million* people learn, share, and work together to build software.
-      </li>
-      <li>
+       <li>
         <a href="https://hyper.is/" target="blank">Hyper Terminal</a> - The goal of the project is to create a beautiful
         and extensible experience for command-line interface users, built on open web standards. In the beginning, our
         focus will be primarily around speed, stability and the development of the correct API for extension authors.
@@ -545,26 +283,7 @@
     </ol>
   </details>
 
-  <details open>
-    <summary>Sites - Misc</summary>
-    <ol>
-      <li>
-        <a href="http://bit.ly/2Puf8Ek" target="blank">Autonomous</a> - the goto place for automated standing desks,
-        treadmills and everything dev furniture related.
-      </li>
-      <li>
-        <a href="https://unsplash.com/" target="blank">Unsplash</a> - The internet’s source of freely usable images.
-      </li>
-      <li>
-        <a href="https://www.humblebundle.com/?partner=coding360">Humble Bundle</a> - although known for their games.
-        Now adays EBook bundles around web development are becoming increasingly popular.
-      </li>
-      <li>
-        <a href="https://www.canva.com/">Canva</a> - Create beautiful designs with your team. Use Canva's drag-and-drop feature and layouts to design, share and print business cards, logos, presentations and more.
-      </li>
-    </ol>
-  </details>
-</details>
+ </details>
 
 <details open>
   <summary>YouTube Channels</summary>
@@ -658,35 +377,6 @@
       manager, the npm Registry, and npm CLI. We offer those to the community for free, but our day job is building and
       selling useful tools for developers like you.
   </ol>
-
-</details>
-
-<details open>
-  <summary>Blogs</summary>
-  <ol>
-    <li><a href="https://www.programwitherik.com/" target="blank">Program with Erik</a> - Erik is a two time author,
-      YouTuber, Podcastor an much more. His blog includes tutorials, rantings and musings on software development, with
-      a focus on JavaScript, Ember.js, Vue.js and Node.js.
-    </li>
-    <li>
-      <a href="https://overreacted.io/" target="blank">Overreacted</a> - Dan Abramov's `I explain with words and code.`
-    </li>
-    <li>
-      <a href="https://css-tricks.com/" target="blank">CSS-Tricks</a> - Daily articles about CSS, HTML, JavaScript, and
-      all things related to web design and development.
-    </li>
-    <li>
-      <a href="https://davidwalsh.name/" target="blank">David Walsh</a> - A blog featuring tutorials about JavaScript,
-      HTML5, AJAX, PHP, CSS, WordPress, and everything else development.
-    </li>
-    <li>
-      <a href="https://www.freecodecamp.org/news/" target="blank">FreeCodeCamp</a> - Learn to code. Build projects. Earn
-      certifications. Since 2015, 40000 graduates have gotten jobs at tech companies including Google, Apple, Amazon and
-      more.
-    </li>
-    <li>
-      <a href="https://blog.webdevsimplified.com/" target="blank">Web Dev Simplified</a> - The official Web Dev Simplified blog by Kyle Cook. Short and simple articles on web development.
-    </li>
     <li>
       <a href="http://blog.cleancoder.com/" target="blank">Clean Code</a> - Robert Martin's (Uncle Bob) blog.
     </li>
@@ -696,54 +386,6 @@
   </ol>
 </details>
 
-<details open>
-  <summary>Podcasts</summary>
-
-  <ol>
-    <li><a href="https://www.selftaughtornot.com/" target="blank">Self-Taught or Not</a> - Self-Taught or Not covers the
-      do's and don'ts of software development, hosted by Dylan Israel & Erik Hanchett. New episodes every Monday!
-    </li>
-    <li><a href="https://techjr.dev/" target="blanl">Tech Jr.</a> - Lee Warrick and Edwin Otero explore what it's like
-      to break into the Tech field as junior developers as well as how to stay up-to-date on new technology.
-    <li><a href="https://6figuredev.com/" target="blank">The 6 Figure Dev</a> - interviews developers to dive deep in
-      their experiences, how to increase your income, and dive deep into their guests projects.
-    </li>
-    <li>
-      <a href="https://podcast.freecodecamp.org/">FreeCodeCamp</a> - The official podcast of the freeCodeCamp open
-      source community. Learn to code with free online courses, programming projects, and interview preparation for
-      developer jobs.
-    </li>
-    <li>
-      <a href="https://realtalkjavascript.simplecast.com/" target="blank">Real Talk JavaScript</a> - Dive into
-      JavaScript and Web development stories with hosts John Papa, Ward Bell, and Dan Wahlin. Sponsored by Nrwl.io A
-      weekly podcast where we tackle the challenges facing Web developers today and invite expert guests on the show to
-      share ktheir experience solving concrete problems while building real Web applications.
-    </li>
-    <li>
-      <a href="https://vanillajspodcast.com/" target="blank">The Vanilla JS Podcast</a> - A show about JavaScript for
-      people who hate the complexity of modern front‑end web development, hosted by Chris Ferdinandi.
-    </li>
-    <li>
-      <a href="https://egghead.io/podcasts" target="blank">EggHead.io Developer Chats</a> - Humans talking about the
-      business of building software, constant learning, and balancing it with everyday life.
-    </li>
-    <li>
-      <a href="https://syntax.fm/" target="blank">Syntax.fm</a> - A Tasty Treats Podcast for Web Developers by Wes Bos &
-      Scott Tolinski.
-    </li>
-    <li>
-      <a href="https://frontendhappyhour.com/">Front End Happy Hour</a> - A podcast featuring a panel of Software
-      Engineers from Netflix, Twitch, Atlassian & Airbnb talking over drinks about all things Front End development.
-    </li>
-    <li>
-      <a href="https://www.codenewbie.org/podcast">CodeNewbie</a> - CodeNewbie Podcast Stories from people on their
-      coding journey.
-    </li>
-    <li>
-      <a href="https://www.redhat.com/en/command-line-heroes">Command Line Heroes</a> - A podcast about the people who transform technology from the command line. Presented by Red Hat.
-    </li>
-  </ol>
-</details>
 
 <details open>
   <summary>VSCode Extensions</summary>
@@ -873,11 +515,6 @@
 <details open>
   <summary>Chrome Extensions</summary>
   <ol>
-    <li>
-      <a href="https://chrome.google.com/webstore/detail/lightshot-screenshot-tool/mbniclmhobmnbdlbpiphghaielnnpgdp?hl=en"
-        target="blank">Lightshot</a> - Simple and convenient screenshot tool. Select an area, edit your screenshot and
-      upload it to the server.
-    </li>
     <li>
       <a href="https://chrome.google.com/webstore/detail/json-formatter/bcjindcccaagfpapjjmafapmmgkkhgoa?hl=en"
         target="blank">JSON Formatter</a> - Makes JSON easy to read. Open source.
